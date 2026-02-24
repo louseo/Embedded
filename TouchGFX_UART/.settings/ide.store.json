@@ -1,0 +1,7 @@
+{
+  "board": "STM32H745I-DISCO",
+  "device": "STM32H745XIH3",
+  "core": "Cortex-M7",
+  "order": 0,
+  "toolchain": "CLANG"
+}
